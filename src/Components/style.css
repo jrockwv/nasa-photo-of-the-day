@@ -1,0 +1,22 @@
+
+h1 {
+    font-family: 'Oxygen', 'Fira sans';
+    background:grey;
+    color: White;
+   
+}
+
+p {
+  font-family: 'Oxygen', 'Fira sans';
+  color: snow;
+}
+
+footer {
+  background: grey;
+  color: white;
+  font-family: 'Oxygen', 'Fira sans';
+}
+
+div .text{
+  display: flex;
+}
